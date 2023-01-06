@@ -1,0 +1,22 @@
+#case_study{
+    color:red;
+}
+
+#VS{
+    color:red;
+}
+
+#ol{
+  color:black;
+  background-color: grey;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color:red;
+    line-height: 3;
+    text-align: center;
+ }
